@@ -13,7 +13,7 @@ class Experience extends React.Component {
       <div className="roles-responsibility">
         <div class="card bg-light mb-3">
         <div class="card-header text-center"> 
-          <h3 class="card-title text-uppercase">EXPERIENCE</h3>
+          <h3 class="card-title text-uppercase">PROJECT EXPERIENCE</h3>
           </div><br />  
          
         <div class="card  mb-3">
