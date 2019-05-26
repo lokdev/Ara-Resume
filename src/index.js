@@ -12,6 +12,8 @@ import Social from "./components/social";
 import Recognitions from "./components/recognitions";
 import Language from "./components/Language";
 
+import 'react-circular-progressbar/dist/styles.css';
+
 import "bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 //import "font-awesome/css/font-awesome.css";

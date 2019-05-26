@@ -12,3 +12,6 @@ body {
 .profile-name {
   letter-spacing: 2px;
 }
+.text-underscored{
+  text-decoration: underline;
+}

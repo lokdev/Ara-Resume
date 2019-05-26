@@ -9,8 +9,7 @@ class ProfessionalExperience extends React.Component {
       <div className="card mb-5 rounded-pill">
         <div className="card-body bg-secondary">
           <div className="professional-experience">
-          <font color="#cc0000">
-            <h2 className="text-center">EXPERIENCE</h2></font><br />
+            <h2 className="text-center text-light">EXPERIENCE</h2><br />
             <div className="display-3 text-center">+5 Years</div><br />
             <ul style={{marginLeft:"21%"}}>
             {this.props.company.map(workexp =>{
