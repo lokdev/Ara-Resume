@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Ara-Resume/precache-manifest.db0159c7825d7d37c899d6daf698b01e.js"
+  "/Ara-Resume/precache-manifest.588d2c7575486534d90e237afb6947b3.js"
 );
 
 workbox.clientsClaim();
