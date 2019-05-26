@@ -93,7 +93,7 @@ export default class App extends React.Component {
                  </div>
             </div>
                 </div><br />
-            <div className="text-center"><Social /></div>
+            <div className="text-center"><Social /></div><br />
           </div> 
 </div>
     );
