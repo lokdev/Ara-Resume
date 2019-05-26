@@ -15,6 +15,7 @@ class Name extends React.Component {
             
           </font>
         </h1>
+        <span> B.A. Business Developer</span>
       </div>
     );
   }
